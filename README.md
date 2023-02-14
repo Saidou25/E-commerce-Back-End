@@ -6,14 +6,14 @@
 ---
 
 
-[Link to walkthrough video](https://drive.google.com/file/d/1OnO4L_Km3rPlxmNyU1Drdl1yxaDGvHS-/view)
+[Link to walkthrough video](https://drive.google.com/file/d/15hOEtTA78ApLbVGjs7UumUyz8ZrfBuDb/view)
 
 
 [Link to GitHub Repository](https://github.com/Saidou25/E-commerce-Back-End.git)
 
 ## Description
 
-This project is a simulation of an E-commerce application allowing manipulation (like gathering, creating, updating and deleting) of different items within a database.  
+This project is a simulation of an E-commerce application allowing manipulation (such as gathering, creating, updating and deleting) of different items within a database.  
 
 ## Table of Contents
 
@@ -30,11 +30,11 @@ This project is a simulation of an E-commerce application allowing manipulation 
 
 To install necessary dependencies, run the following commands:
 
-- ```npm init -y``` is necessary to install package.json
+- ```npm install``` is necessary to install package.json
 
 - ```npm run seed``` is necessary to properly seed the database
 
-- ```nodemon/ node server.js``` starts the application and keep it updated with live changes.
+- ``` node server.js``` sync sequelize to the database on server start.
 
 
 ## Technologies
